@@ -1,2 +1,3 @@
 Projet de big data supplémentaire :
 - Data cleaning et visualisation, utilisation des json ... 
+- Jamais corrigé : pas de correction disponible ... Normalement on  répondu à toutes les questions ? 
